@@ -1,3 +1,7 @@
+# Git - Markdown 연습
+
+from : https://www.10000recipe.com/recipe/6903507
+
 # 오징어 볶음, 향과 맛이 일품! 백종원 오징어 볶음
 
 ![Image](https://recipe1.ezmember.co.kr/cache/recipe/2019/01/04/518d5bf35102aa51bf58078f7a25dc751.jpg)
@@ -25,3 +29,11 @@
 | 식용유 | 3큰술 | 참기름 | 1큰술 |
 |  |  | 통깨 | 적당량 |
 
+## 조리순서
+
+### 1 단계
+
+양배추, 당근, 양파, 파(준비량의 반)는  길쭉하고 굵게, 고추도 어슷큼직하게 썹니다.
+오징어도 깨끗하게 손질해서 먹기좋은 크기로 썹니다.
+
+![](https://recipe1.ezmember.co.kr/cache/recipe/2019/01/04/7adc229ac4fb344680fa9853c3648b321.jpg)
