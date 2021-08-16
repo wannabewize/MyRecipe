@@ -44,3 +44,10 @@ from : https://www.10000recipe.com/recipe/6903507
 파기름이 충분히 나오게, 노르스름해질때까지 볶습니다.
 
 ![](https://recipe1.ezmember.co.kr/cache/recipe/2019/01/04/c4605fc7eb7089380dfada6c9e59a56e1.jpg)
+
+### 3단계
+
+파가 노르스름하게 볶아지면 오징어를 넣고 볶다가 설탕 1큰술을 넣어 볶습니다.
+
+- 센불
+- 볶는 시간을 최소로 합니다.
