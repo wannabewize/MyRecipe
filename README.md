@@ -82,3 +82,5 @@ from : https://www.10000recipe.com/recipe/6903507
 그릇이나 달군 팬에 먹음직스럽게 담고 통깨를 솔솔 뿌려 상에 냅니다.
 완성!입니다.
 맛있게 드세요~
+
+![](https://recipe1.ezmember.co.kr/cache/recipe/2019/01/04/9f12b354cd5736d20cc610203a7b431c1.jpg)
