@@ -77,6 +77,8 @@ from : https://www.10000recipe.com/recipe/6903507
 
 잘 섞어가며 채소의 숨이 죽지않게 단시간으로 볶다가 불에서 내리기 직전 참기름을 촤악~ 둘러주고 끝!!
 
+![](https://recipe1.ezmember.co.kr/cache/recipe/2019/01/04/e1c95af6e89e93aa7b3c014374deb0d31.jpg)
+
 
 ## 8단계
 
