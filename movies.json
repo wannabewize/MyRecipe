@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "title": "Extraction",
+            "director": "Sam Hargrave",
+            "poster": "http://.../extraction.jpg"
+        },
+        {
+            "title": "The Gentlemen",
+            "director": "Guy Ritchie",
+            "poster": "http://.../the_gentlemen.jpg"
+        },
+        {
+            "title": "The Lodge",
+            "director": "Severin Fiala, Voronika Franz",
+            "poster": "http://.../the_gentlemen.jpg"
+        }
+    ]
+}

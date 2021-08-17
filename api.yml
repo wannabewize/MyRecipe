@@ -1,0 +1,42 @@
+openapi: '3.0.2'
+info:
+  title: API Title
+  version: '1.0'
+servers:
+  - url: https://api.server.test/v1
+paths:
+  /movies:
+    get:
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      $ref:  "#/components/schemas/Movie"
+          
+components:
+  schemas:
+    Movie:
+      type: object
+      properties:
+        title:
+          type: string
+          description: 영화 제목
+        director:
+          type: string
+          description: 감독 이름
+        actors:
+          type: array
+          description: 배우 목록
+          items:
+            type: string
+        year:
+          type: number
+          description: 개봉연도
+  
